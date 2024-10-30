@@ -1,0 +1,5 @@
+export {default as aprendizajeRouter} from "./aprendizajeRoute"
+export {default as idiomaRouter} from "./idiomaRoute"
+export {default as instructorRouter} from "./instructorRoute"
+export {default as usuarioRouter} from "./usuarioRoute"
+export {default as signRouter} from "./sign"
